@@ -1,0 +1,46 @@
+Total Number of Words = 429
+Total Unique Words = 381
+
+Word: ---, Freq: 3, Initial Position: 420
+Word: Alas!, Freq: 1, Initial Position: 113
+Word: And, Freq: 9, Initial Position: 661
+Word: Are, Freq: 2, Initial Position: 160
+Word: As, Freq: 3, Initial Position: 185
+Word: At, Freq: 2, Initial Position: 1198
+Word: Behaving, Freq: 1, Initial Position: 889
+Word: Between, Freq: 7, Initial Position: 1811
+Word: Eyes, Freq: 1, Initial Position: 511
+Word: Falls, Freq: 3, Initial Position: 1873
+Word: For, Freq: 4, Initial Position: 1888
+Word: Form, Freq: 1, Initial Position: 1271
+Word: Gathered, Freq: 1, Initial Position: 1507
+Word: Headpiece, Freq: 1, Initial Position: 88
+Word: Here, Freq: 3, Initial Position: 1019
+Word: Hollow, Freq: 1, Initial Position: 10
+Word: I, Freq: 1, Initial Position: 513
+Word: In, Freq: 9, Initial Position: 540
+Word: Is, Freq: 1, Initial Position: 1144
+Word: Kingdom, Freq: 3, Initial Position: 404
+Word: Leaning, Freq: 1, Initial Position: 69
+Word: Let, Freq: 2, Initial Position: 748
+Word: Life, Freq: 2, Initial Position: 2009
+Word: Lips, Freq: 1, Initial Position: 1250
+Word: Men., Freq: 1, Initial Position: 15
+Word: More, Freq: 1, Initial Position: 699
+Word: Multifoliate, Freq: 1, Initial Position: 1612
+Word: No, Freq: 1, Initial Position: 912
+Word: Not, Freq: 2, Initial Position: 928
+Word: Of, Freq: 2, Initial Position: 1620
+Word: Or, Freq: 1, Initial Position: 206
+Word: Our, Freq: 1, Initial Position: 117
+Word: Paralysed, Freq: 1, Initial Position: 306
+Word: Prickly, Freq: 1, Initial Position: 1717
+Word: Rat's, Freq: 1, Initial Position: 838
+Word: Remember, Freq: 1, Initial Position: 413
+Word: Shadow, Freq: 3, Initial Position: 1884
+Word: Shape, Freq: 1, Initial Position: 260
+Word: Sightless,, Freq: 1, Initial Position: 1552
+Word: Such, Freq: 1, Initial Position: 811
+Word: Sunlight, Freq: 1, Initial Position: 612
+Word: Than, Freq: 1, Initial Position: 728
+Word: The, Freq: 6, Initial Position: 3

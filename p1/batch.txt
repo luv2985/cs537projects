@@ -1,0 +1,5 @@
+-f welcome.txt -o output.txt -c -w -l -Lw -Ll
+-f hollow.txt -o output.txt -c -w -l -Lw -Ll
+-f welcome.txt -o output.txt -l -w -c
+-f movies.txt -o output.txt -c
+-f welcome.txt -o output.txt -Lw -Ll
